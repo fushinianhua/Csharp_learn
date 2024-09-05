@@ -1,0 +1,10 @@
+D:\Github_project\Csharp_learn\test\bin\Debug\test.exe.config
+D:\Github_project\Csharp_learn\test\bin\Debug\test.exe
+D:\Github_project\Csharp_learn\test\bin\Debug\test.pdb
+D:\Github_project\Csharp_learn\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Github_project\Csharp_learn\test\obj\Debug\test.Form1.resources
+D:\Github_project\Csharp_learn\test\obj\Debug\test.Properties.Resources.resources
+D:\Github_project\Csharp_learn\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Github_project\Csharp_learn\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Github_project\Csharp_learn\test\obj\Debug\test.exe
+D:\Github_project\Csharp_learn\test\obj\Debug\test.pdb
