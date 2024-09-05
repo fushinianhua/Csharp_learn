@@ -1,0 +1,17 @@
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\注册机器码.exe.config
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\注册机器码.exe
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\注册机器码.pdb
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\注册机器码.xml
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.vbproj.AssemblyReference.cache
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.Form1.resources
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.Resources.resources
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.vbproj.GenerateResource.cache
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.vbproj.CoreCompileInputs.cache
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.exe
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.xml
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.pdb
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\System.CodeDom.dll
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\System.CodeDom.xml
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\obj\Debug\注册机器码.vbproj.Up2Date
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\DSAPI.dll
+C:\Users\辛鹏\source\repos\注册机器码\注册机器码\bin\Debug\DSAPI.xml
